@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyeleren&label=Profile%20views&color=0e75b6&style=flat" alt="eyeleren" /> </p>
 
-<p align="left"> <a href="https://twitter.com/eyeleren" target="blank"><img src="https://img.shields.io/twitter/follow/eyeleren?logo=twitter&style=for-the-badge" alt="eyeleren" /></a> </p>
-
 - 🌱 I’m currently **figuring out life**
 
 - 👨‍💻 All of my projects are available at: [https://issued.vercel.app/](https://issued.vercel.app/)
