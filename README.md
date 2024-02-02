@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **simone.zanon@gmail.com**
 
-- ⚡ Fun fact: **I'm waiting for Elon Musk to deliver some kind of Nervegear full dive to the mankind**
+- ⚡ Fun fact: **I'm waiting for Elon Musk to deliver some kind of Nervegear full dive tech to the mankind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
