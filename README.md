@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyeleren&label=Profile%20views&color=0e75b6&style=flat" alt="eyeleren" /> </p>
 
-- 🌱 I’m currently **figuring out life**
+- 💼 I’m currently working @**Jakala**
 
 - 👨‍💻 All of my projects are available at: [https://issued.vercel.app/](https://issued.vercel.app/)
 
@@ -20,8 +20,8 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,c,java,nextjs,mysql,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,vscode,github,git,php" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,c,nextjs,mysql,postman" /><br>
 </div>
 <br>
 
