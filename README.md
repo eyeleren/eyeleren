@@ -24,7 +24,7 @@
 
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
-    <img align="left" src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,php,vscode,github,git" />
+    <img align="left" src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,php,react,vscode,github,git" />
     <img align="left" src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,nextjs,mysql,postman" /><br>
 </div>
 <br>
