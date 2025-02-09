@@ -22,9 +22,9 @@
 <a href="https://www.youtube.com/channel/UCG9dqJnMR1GhP2YN3FOsG3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyeleren" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">⚒️ Tools ⚒️</h2>
+<h2 align="center">⚒️ Skills && Tools ⚒️</h2>
 <div align="center">
-    <img align="left" src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,php,react,vscode,github,git" />
+    <img align="left" src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,php,react,vscode,github,git,figma" />
     <img align="left" src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,nextjs,mysql,postman" /><br>
 </div>
 <br>
