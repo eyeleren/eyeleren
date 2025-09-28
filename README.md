@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyeleren&label=Profile%20views&color=0e75b6&style=flat" alt="eyeleren" /> </p>
 
-- 💼 I’m currently working @**Jakala**
+- 💼 Currently working @**Jakala**
 
 - 👨‍💻 All of my projects are available at: [https://issued.vercel.app/](https://issued.vercel.app/)
 
